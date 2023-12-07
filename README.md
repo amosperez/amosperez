@@ -1,7 +1,7 @@
 
 <!--- <a href="https://amosperez.com/">amosperez.com</a> --->
 
-- Computer Science Undergraduate at the University of Central Florida (Expected Graduation: 2025)
+- University of Central Florida - Undergraduate - Exp. Grad. 2025
 - <a href="https://amosperez.com/">View Portfolio</a>
 
 <!---- 💞️ I’m looking to collaborate on things that are cool. --->
