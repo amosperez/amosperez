@@ -1,1 +1,1 @@
-- Computer Science Student (B.s) @ University of Central Florida
+- Computer Science Student @ University of Central Florida
